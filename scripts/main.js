@@ -1,6 +1,6 @@
 // Image switcher code
 
-let myImage = document.querySelector('img');
+//let myImage = document.querySelector('img');
 //documentは組み込みのオブジェクト
 //ブラウザが表示しているページ。DocumentObjectModelの略。
 //querySelectorはページの一部(HTML要素)を選ぶ関数。
