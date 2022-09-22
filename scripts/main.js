@@ -5,6 +5,7 @@ let myImage = document.querySelector('img');
 //ブラウザが表示しているページ。DocumentObjectModelの略。
 //querySelectorはページの一部(HTML要素)を選ぶ関数。
 
+/*
 myImage.onclick = function() {
   let mySrc = myImage.getAttribute('src');
   if(mySrc === 'images/firefox-icon.png') {
@@ -13,6 +14,7 @@ myImage.onclick = function() {
     myImage.setAttribute ('src','images/firefox-icon.png');
   }
 }
+*/
 
 // Personalized welcome message code
 
